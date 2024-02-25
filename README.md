@@ -1,6 +1,7 @@
 #code
 
 
+
 a=int(input("Enter the first number"))
 b=int(input("Enter the Second number"))
 print("\n  GIRI Store Calculator Program \n")
